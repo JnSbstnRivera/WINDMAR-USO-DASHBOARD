@@ -1,4 +1,4 @@
-# Dashboard de Uso · Cotizadores Windmar
+# DASHBOARD DE USO · COTIZADORES WINDMAR
 
 Dashboard interno de telemetría para Windmar Home PR que centraliza el uso de los cotizadores (Roofing, Water, Anker, Solar LOAN, Solar Lease PPA y Proyecto Completo). Lee la tabla `app_usage` del proyecto Supabase `windmar-dashboards` y muestra, en vivo, cuántas cotizaciones se generan, cuántos leads/correos entran y cuánto pipeline se cotiza, con exportación a Excel/CSV.
 
